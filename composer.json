@@ -1,0 +1,15 @@
+{
+    "name": "jano/srandicky",
+    "autoload": {
+        "psr-4": {
+            "Config\\":"classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jojnas",
+            "email": "jan.stancek49@gmail.com"
+        }
+    ],
+    "require": {}
+}
